@@ -3,10 +3,10 @@ Intruder: The automated Wi-Fi Intrusion Script.
 
 Prerequisites:
 --------------
-SSID and Password of WiFi
-Python2
-Termcolor(will install if you don't have)
-Linux
+SSID and Password of WiFi,
+Python2,
+Termcolor(will install if you don't have),
+Linux,
 
 How to setup:
 --------------
@@ -15,8 +15,8 @@ chmod +x setup.sh
 
 Usage:
 --------------
-intruder -random (picks a random host and mac spoofs)
-intruder -choice (lets you choose)
+intruder -random (picks a random host and mac spoofs),
+intruder -choice (lets you choose),
 intruder stop (Cleanly disconnects you from network and stops mac spoofing)
 
 What it does:
